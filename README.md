@@ -4,7 +4,7 @@
 </div>
 <p align="center">
   <!-- license badge -->
-  <a href="https://github.com/dexsuite/dex-retargeting/blob/main/LICENSE">
+  <a href="https://github.com/silencht/dex-retargeting/blob/unitree/LICENSE">
       <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
   </a>
 </p>
