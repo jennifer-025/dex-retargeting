@@ -13,7 +13,12 @@
 ## Installation
 
 ```shell
+# clone
 git clone https://github.com/silencht/dex-retargeting
+# or perform a shallow clone of the repository, fetching only the latest commit to save time and space
+git clone --depth 1 https://github.com/silencht/dex-retargeting
+
+# install
 cd dex-retargeting
 pip install -e .
 ```
